@@ -1,0 +1,5 @@
+user:strider
+pass:0QwtSjuHSB1cNotd
+
+MondoDB URL
+mongodb+srv://strider:<0QwtSjuHSB1cNotd>@cluster0-rfvae.mongodb.net/cafe
