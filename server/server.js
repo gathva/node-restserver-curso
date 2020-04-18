@@ -13,7 +13,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(bodyParser.json());
 
-app.use( require('./config/routes/usuario') );
+
+//configuracion global de rutas
+app.use( require('./config/routes/index') );
 
 
 
